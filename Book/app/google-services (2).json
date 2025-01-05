@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201569036688",
+    "project_id": "booktook-f4c9b",
+    "storage_bucket": "booktook-f4c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201569036688:android:59dd2c4cac930dd76c6b15",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4c5FbuZVeXVapOsweMgZ4H4T4QSNQac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
